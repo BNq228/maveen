@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class CalculatorService {
 
     public String greetings() {
-        return "Добро пожаловать в калькулятор!";
+        return "Добро пожаловать в калькулятор!!!";
     }
 
     public int plus(int num1, int num2) {
